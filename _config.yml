@@ -29,7 +29,7 @@ email: eden@edenrabbie.com
 #public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
 
-avatar: yes
+avatar: no #yes
 #avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
@@ -37,7 +37,7 @@ avatar_img_path: "https://avatars2.githubusercontent.com/u/40206195"
 
 
 front_img: yes
-front_img_path: "imgs/background.jpg"
+front_img_path: "imgs/photo.jpg"
 #front_img_path: "https://external.url/image.jpg"
 
 
